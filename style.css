@@ -1,0 +1,181 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+#main{
+    width:370px;
+    height:650px;
+    
+}
+#top{
+
+    height:100px;
+    width:100%;
+    
+}
+#logo1{
+    
+    width:100px;
+    height:100%;
+    float: right;
+}
+
+#logo2{
+    
+    width:100px;
+    height:100%;
+    
+}
+#name{
+    
+    height:100%;
+    width:170px;
+    float:right;
+    
+}
+#img1{
+    height:70px;
+    width:60px;
+    margin-top:15px;
+    margin-left:30px;
+}
+#img2{
+    height:70px;
+    width:60px;
+    margin-top:22px;
+    margin-left:10px;
+}
+#kec{
+    font-size: 10px;;
+    margin-left: 2px;;
+    margin-top:25px;
+}
+#auto{
+        font-size: 11px;;
+        margin-left:50px;;
+        padding-top:3px;
+
+}
+#office{
+    font-size: 9px;;
+    margin-left: 3px;;
+    
+
+}
+#erode{
+    font-size:10px;;
+    margin-left:5px;
+    padding-top:3px;
+
+}
+#line{
+    background-color: rgb(7, 230, 18);
+    width:100%;
+    height:1px;
+}
+#num{
+    
+    width:100%;
+    height:250px;
+}
+#head{
+    
+    height:60px;
+    width:100%;
+}
+#regno{
+   
+    height:40px;
+    width:100%;
+}
+#dob{
+    
+    height:40px;
+    width:100%;
+    margin-top:5px;
+}
+#result{
+    
+    height:40px;
+    width:100%;
+    margin-top:5px;
+
+}
+#reset{
+    
+    height:40px;
+    width:100%;
+    margin-top:5px;
+
+}
+#end{
+    margin-left:43px;
+    position: absolute;
+    margin-top: 5px;;
+    color:rgb(7, 230, 18)
+    
+}
+#pro{
+    margin-left:114px;
+    position: absolute;
+    margin-top:20px;;
+    color:rgb(7, 230, 18)
+    
+    
+}
+#rn{
+    font-size:15px;;
+    position: absolute;
+    margin-top: 5px;;
+    margin-left:30px;
+
+}
+#regno input{
+    position: absolute;
+    margin-left:150px;
+    padding-top:2px;
+    padding-bottom:2px;
+    margin-top:4px;
+    border-color:rgb(7, 230, 18);
+}
+#d1{
+    font-size:15px;;
+    position: absolute;
+    margin-top: 5px;;
+    margin-left:107px;
+
+}
+#dob input{
+    position: absolute;
+    margin-left:150px;
+    padding-top:2px;
+    padding-bottom:2px;
+    margin-top:4px;
+    border-color:rgb(7, 230, 18);
+}
+#b1{
+    position: absolute;
+    text-decoration: none;
+    background-color: rgb(7, 230, 18);
+    padding-top: 4px;
+    padding-bottom: 4px;;
+    padding-left:40px;
+    padding-right:40px;
+    margin-left:100px;
+    margin-top:5px;
+    border-radius: 50px;;
+    cursor: pointer;
+}
+#b2{
+    position: absolute;
+    text-decoration: none;
+    background-color:rgb(6, 224, 17);
+    padding-top: 4px;
+    padding-bottom: 4px;;
+    padding-left:60px;
+    padding-right:56px;
+    margin-left:100px;
+    margin-top:5px;
+    border-radius: 50px;;
+    cursor:pointer;
+}
